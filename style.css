@@ -20,7 +20,7 @@
     width: 100px;
 }
 .logo{
-    background-image: url(/amazonlogo.png);
+    background-image: url(./amazonlogo.png);
     height: 50px;
     background-size: contain;
     background-repeat: no-repeat;
@@ -131,7 +131,7 @@ select{
 }
 /* herosection */
 .herosection{
-    background-image: url(/imgbackground.jpg);
+    background-image: url(./imgbackground.jpg);
     height: 500px;
     display: flex;
     background-size: cover;
@@ -198,7 +198,7 @@ select{
     margin-top: 15px;
 }
 .proimg1{
-    background-image: url(/img02.jpg);
+    background-image: url(img02.jpg);
     height: 320px;
     width: 320px;
     background-image: cover;
@@ -206,7 +206,7 @@ select{
     
 }
 .proimg2{
-    background-image: url(/img03.jpg);
+    background-image: url(./img03.jpg);
     height: 320px;
     width: 320px;
     background-image: cover;
@@ -214,7 +214,7 @@ select{
 }
 
 .proimg3{
-    background-image: url(/img06.jpg);
+    background-image: url(img06.jpg);
     height: 320px;
     width: 320px;
     background-image: cover;
@@ -222,7 +222,7 @@ select{
 }
 
 .proimg4{
-    background-image: url(/img05.jpg);
+    background-image: url(img05.jpg);
     height: 320px;
     width: 320px;
     background-image: cover;
