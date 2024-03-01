@@ -198,7 +198,7 @@ select{
     margin-top: 15px;
 }
 .proimg1{
-    background-image: url(img02.jpg);
+    background-image: url(./img02.jpg);
     height: 320px;
     width: 320px;
     background-image: cover;
@@ -214,7 +214,7 @@ select{
 }
 
 .proimg3{
-    background-image: url(img06.jpg);
+    background-image: url(./img06.jpg);
     height: 320px;
     width: 320px;
     background-image: cover;
@@ -222,14 +222,14 @@ select{
 }
 
 .proimg4{
-    background-image: url(img05.jpg);
+    background-image: url(./img05.jpg);
     height: 320px;
     width: 320px;
     background-image: cover;
     background-repeat: no-repeat;
 }
 .proimg5{
-    background-image: url(/img10.jpg);
+    background-image: url(./img10.jpg);
     height: 320px;
     width: 320px;
     background-image: cover;
@@ -237,7 +237,7 @@ select{
     
 }
 .proimg6{
-    background-image: url(/img07.jpg);
+    background-image: url(./img07.jpg);
     height: 320px;
     width: 320px;
     background-image: cover;
@@ -245,7 +245,7 @@ select{
 }
 
 .proimg7{
-    background-image: url(/img08.jpg);
+    background-image: url(./img08.jpg);
     height: 320px;
     width: 320px;
     background-image: cover;
@@ -253,7 +253,7 @@ select{
 }
 
 .proimg8{
-    background-image: url(/img09.jpg);
+    background-image: url(./img09.jpg);
     height: 320px;
     width: 320px;
     background-image: cover;
